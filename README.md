@@ -4,6 +4,9 @@ from gathering at on location and stop spreading of corona virus
 by maintaining social distancing , this device uses various sensor to 
 achieve social distancing such as:
 
+
+Compoenets :-
+
 * Temprature Sensor : Used to detect body temprature of person standing closer to the device.
 * Ultrasonic Sensor : to detect the presence of objects and their temprature(using temprature sensor)
 to detect danger.
